@@ -12,11 +12,11 @@ Linkedin: [Aleksi Mikkonen](https://fi.linkedin.com/in/aleksi-mikkonen-2b39051b4
 <!DOCTYPE html>
 <html>
    <head>
-      <title>HTML img Tag</title>
+      <title>Aleksi Mikkonen</title>
    </head>
 
    <body>
-      <img src="https://lh3.googleusercontent.com/proxy/eUOW-udn3RhoxqgD1Sp6giPK-sA5WqdOrXsEUwQnurtPuRLK0SF7D-4paZEwXuyDG5pdWz3jJfS4KWxvFz_om_k7oESXNaX60-hPYxQDvMeohLFi" alt="Simply Easy Learning" width="200"
-         height="80">
+      <img src="https://cdn.discordapp.com/attachments/610860693612396555/750247091049201675/aleksi.png" alt="Aleksi Mikkonen" width="1920"
+         height="1080">
    </body>
 </html>
