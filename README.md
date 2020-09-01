@@ -17,7 +17,7 @@ Linkedin: [Aleksi Mikkonen](https://fi.linkedin.com/in/aleksi-mikkonen-2b39051b4
 
    <body>
       <img src="https://cdn.discordapp.com/attachments/610860693612396555/750247091049201675/aleksi.png" alt="Aleksi Mikkonen" width="2000"
-         height="1080"> 
+         height="852"> 
    </body>
  <html>
 Wide Mkkn: [Music](<iframe width="560" height="315" src="https://www.youtube.com/embed/evtzByeNxZw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
