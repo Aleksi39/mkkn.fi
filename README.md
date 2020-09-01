@@ -16,7 +16,9 @@ Linkedin: [Aleksi Mikkonen](https://fi.linkedin.com/in/aleksi-mikkonen-2b39051b4
    </head>
 
    <body>
-      <img src="/html/images/test.png" alt="Simply Easy Learning" width="200"
+      <img src="https://mkkn.fi/Aleksi%20Mikkonen%2C%20Google%20Digital%20Marketing.pdf
+                
+               " alt="Simply Easy Learning" width="200"
          height="80">
    </body>
 </html>
